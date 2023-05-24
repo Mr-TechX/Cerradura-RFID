@@ -102,7 +102,7 @@ void loop() // Codigo de ejecucion continua o en bucle
 
 //+++++++++++++++++++++++++++++++++++++++++++++++++++++
 //+                     COPYRIGHT                     +
-//+   © 2022 UlisesCamacho - TecnoProjects Security   +
+//+   © 2023 UlisesCamacho - TecnoProjects Security   +
 //+     https://portafolio.ulisescamacho.repl.co      +
-//+                Derechos reservados                +
+//+           Todos los derechos reservados           +
 //+++++++++++++++++++++++++++++++++++++++++++++++++++++
